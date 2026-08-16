@@ -16,6 +16,7 @@ import (
 	"fmt"
 	"io"
 	"mime"
+	"net"
 	"net/http"
 	"net/http/httptest"
 	"net/netip"
